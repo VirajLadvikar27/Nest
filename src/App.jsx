@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <div className="text-red-800"> Hi Hello </div>
+      <div className="text-red-800"> Hi Helloooooooooooooooooooooooooooooooo </div>
     </>
   );
 }
